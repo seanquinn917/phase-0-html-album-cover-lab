@@ -1,10 +1,15 @@
-<!-- FRONT -->
-
-PHARRELL WILLIAMS
-
-HAPPY
-
-| FROM DESPICABLE ME 2 |
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <title>
+                <h1>PHARRELL WILLIAMS</h1>
+                    <h2>HAPPY</h2>
+                    <h4>| FROM DESPICABLE ME 2 |</h4>
+            </title>
+    </head>       
+    <body>
+    <img src= "~Development/code/se-prep/phase-0-htmml-album-cover-lab/images/columbia-logo.png"/>
+        
 
 <!-- BACK -->
 
@@ -23,3 +28,4 @@ PHARRELLWILLIAMS.COM
 COLUMBIARECORDS.COM
 
 [sony-logo.png]
+</html>
